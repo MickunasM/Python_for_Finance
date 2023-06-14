@@ -1,1 +1,2 @@
 # Python_for_Finance
+A repo for the Python for Finance 2023 elective at the London Business School which I assisted in teaching. The course ranged from covering Python fundamentals such as data types, lists, if statemtns, for loops and summary statistics, to complex financial aspects like mean-varaince optimisation, factor investing, monte-carlo simulations and numerical optimisation.
